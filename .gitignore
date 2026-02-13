@@ -38,6 +38,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Exclude folder oliver-contributions
+oliver-contributions/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
